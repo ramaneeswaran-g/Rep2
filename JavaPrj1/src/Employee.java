@@ -4,6 +4,7 @@ public class Employee {
    private String Ename;
    private String Edesg;
    private String Edept;
+   private double salary;
    
    public Employee()
    {
