@@ -16,5 +16,11 @@ public class Employee {
    {
 	   System.out.print("Eno =" + Eno);
 	   System.out.println("Ename ="+ Ename);
+	   System.out.println("Desg ="+ Edesg);
+   }
+   public static void main(String[] s)
+   {
+	   Employee e1=new Employee();
+	   e1.dispEmp();
    }
 }
