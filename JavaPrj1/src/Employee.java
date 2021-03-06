@@ -15,6 +15,6 @@ public class Employee {
    public void dispEmp()
    {
 	   System.out.print("Eno =" + Eno);
-	   
+	   System.out.println("Ename ="+ Ename);
    }
 }
